@@ -1,6 +1,6 @@
 [submodule "terraqi-api"]
-	path = terraqi-api
+	path = back-end-server
 	url = https://github.com/SamSSLF/terraqi-api.git
 [submodule "terraqi-model-development"]
-	path = terraqi-model-development
+	path = model-development
 	url = https://github.com/SamSSLF/terraqi-model-development.git
