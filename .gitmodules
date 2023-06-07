@@ -1,0 +1,3 @@
+[submodule "terraqi-api"]
+	path = terraqi-api
+	url = https://github.com/SamSSLF/terraqi-api.git
