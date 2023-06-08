@@ -1,5 +1,5 @@
 <h1 align="center">
-  Electricity Maps
+  TerraQi API
 </h1>
 
 <p align="center">
