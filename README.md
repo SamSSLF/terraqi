@@ -17,6 +17,8 @@ TerraQi is a community project and we welcome contributions from anyone!
 
 TerraQi is looking for help building world-class open-source machine learning models to predict renewable energy generation.
 
+The project consists of 2 submodules, model training (terraqi-model-development), and the back-end server which serves the API endpoints which utilise the latest trained model (terraqi-api). You should clone the submodules separately and make pull requests to their respective repositories. 
+
 ## License
 
 This repository is licensed under GNU GPLv3, find our license [here](https://github.com/SamSSLF/terraqi/blob/main/LICENSE).
